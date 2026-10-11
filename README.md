@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/HIMANSHU8041/HIMANSHU8041">
+  <a href="https://github.com/HIMANSHU5051/HIMANSHU5051">
   <img src="https://raw.githubusercontent.com/HIMANSHU8041/HIMANSHU8041/main/blue-neon-terminal.svg?v=2"
        alt="Blue Neon Terminal"
        width="100%" />
@@ -16,7 +16,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU8041&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU5051&show_icons=true&theme=tokyonight)
 
 ## 📈 GitHub Profile Summary
 
