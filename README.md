@@ -14,10 +14,6 @@
 * 🚀 Exploring Cloud Computing and DevOps
 * 🛠️ Building projects and improving my skills
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU8041\&show_icons=true\&theme=tokyonight)
-
 
 ## 📊 GitHub Stats
 
