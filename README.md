@@ -1,6 +1,19 @@
-## Hi there 👋
+# Hi, I'm Himanshu Shishodia 👋
 
-<!--
+💻 Aspiring DevOps Engineer
+
+* 🌱 Learning Docker, AWS, Linux, Git and Python
+* 🚀 Exploring Cloud Computing and DevOps
+* 🛠️ Building projects and improving my skills
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU8041\&show_icons=true\&theme=tokyonight)
+
+## Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HIMANSHU8041\&theme=tokyo-night)
+
 **HIMANSHU8041/HIMANSHU8041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
