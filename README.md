@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="https://github.com/HIMANSHU8041/HIMANSHU8041">
   <img src="https://raw.githubusercontent.com/HIMANSHU8041/HIMANSHU8041/main/blue-neon-terminal.svg?v=2"
        alt="Blue Neon Terminal"
        width="100%" />
