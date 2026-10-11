@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Himanshu Shishodia - Blue Neon Developer Terminal</title>
+  <desc id="desc">A blue neon terminal-style profile banner with an animated scanning line and developer information.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b19"/>
+      <stop offset="0.55" stop-color="#08152a"/>
+      <stop offset="1" stop-color="#02060e"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="0.5" stop-color="#388bff"/>
+      <stop offset="1" stop-color="#00ffd5"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#15385c" stroke-width="0.7" opacity=".55"/>
+    </pattern>
+    <pattern id="scanlines" width="4" height="6" patternUnits="userSpaceOnUse">
+      <path d="M0 5.5H4" stroke="#65dfff" stroke-width=".7" opacity=".12"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screenClip"><rect x="22" y="22" width="1156" height="476" rx="16"/></clipPath>
+    <clipPath id="portraitClip"><circle cx="207" cy="247" r="112"/></clipPath>
+  </defs>
+  <rect width="1200" height="520" rx="22" fill="#02040b"/>
+  <rect x="8" y="8" width="1184" height="504" rx="20" fill="url(#bg)" stroke="#126b9d" stroke-width="2"/>
+  <g clip-path="url(#screenClip)">
+    <rect x="22" y="22" width="1156" height="476" fill="url(#grid)"/>
+    <rect x="22" y="22" width="1156" height="476" fill="url(#scanlines)"/>
+    <rect x="22" y="22" width="1156" height="42" fill="#0b1427"/>
+    <circle cx="47" cy="43" r="6" fill="#ff5470"/>
+    <circle cx="68" cy="43" r="6" fill="#ffc857"/>
+    <circle cx="89" cy="43" r="6" fill="#32e6a1"/>
+    <text x="600" y="48" text-anchor="middle" fill="#7eabc9" font-family="monospace" font-size="14">himanshu@devops: ~/profile --live</text>
+    <text x="1136" y="48" text-anchor="end" fill="#00ffd5" font-family="monospace" font-size="12">● SYSTEM ONLINE</text>
+
+    <rect x="42" y="82" width="330" height="386" rx="12" fill="#071126" stroke="#15547a"/>
+    <text x="62" y="110" fill="#00d9ff" font-family="monospace" font-size="13" letter-spacing="2">PROFILE IDENTITY</text>
+    <circle cx="207" cy="247" r="121" fill="none" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"/>
+    <image href="https://github.com/HIMANSHU8041.png" x="95" y="135" width="224" height="224" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)"/>
+    <circle cx="207" cy="247" r="112" fill="none" stroke="#00d9ff" stroke-width="1.5"/>
+    <text x="207" y="390" text-anchor="middle" fill="#00ffd5" font-family="monospace" font-size="14" font-weight="bold">HIMANSHU SHISHODIA</text>
+    <text x="207" y="414" text-anchor="middle" fill="#7eabc9" font-family="monospace" font-size="11">DEVOPS / CLOUD</text>
+    <text x="207" y="438" text-anchor="middle" fill="#267dff" font-family="monospace" font-size="10">USER: HIMANSHU8041</text>
+
+    <rect x="392" y="82" width="766" height="386" rx="12" fill="#050c1b" fill-opacity=".92" stroke="#15547a"/>
+    <text x="418" y="111" fill="#00d9ff" font-family="monospace" font-size="13" letter-spacing="2">SYSTEM INFO</text>
+    <text x="418" y="143" fill="#00ffd5" font-family="monospace" font-size="19" font-weight="bold">HIMANSHU SHISHODIA</text>
+    <text x="418" y="171" fill="#a5c8e5" font-family="monospace" font-size="15">Role</text>
+    <text x="590" y="171" fill="#f1f7ff" font-family="monospace" font-size="15">Aspiring DevOps Engineer</text>
+    <text x="418" y="199" fill="#a5c8e5" font-family="monospace" font-size="15">Focus</text>
+    <text x="590" y="199" fill="#f1f7ff" font-family="monospace" font-size="15">Cloud • Automation • Containers</text>
+    <text x="418" y="227" fill="#a5c8e5" font-family="monospace" font-size="15">Learning</text>
+    <text x="590" y="227" fill="#f1f7ff" font-family="monospace" font-size="15">Linux, Git, Docker, AWS, Python</text>
+    <text x="418" y="255" fill="#a5c8e5" font-family="monospace" font-size="15">Status</text>
+    <text x="590" y="255" fill="#f1f7ff" font-family="monospace" font-size="15">Building • Learning • Shipping</text>
+    <path d="M418 278H1132" stroke="#16466b" stroke-dasharray="5 5"/>
+    <text x="418" y="307" fill="#00d9ff" font-family="monospace" font-size="13" letter-spacing="2">CORE TOOLCHAIN</text>
+    <text x="418" y="336" fill="#00ffd5" font-family="monospace" font-size="15">01</text>
+    <text x="456" y="336" fill="#e8f4ff" font-family="monospace" font-size="15">Linux / Bash</text>
+    <text x="700" y="336" fill="#00ffd5" font-family="monospace" font-size="15">02</text>
+    <text x="738" y="336" fill="#e8f4ff" font-family="monospace" font-size="15">Docker</text>
+    <text x="900" y="336" fill="#00ffd5" font-family="monospace" font-size="15">03</text>
+    <text x="938" y="336" fill="#e8f4ff" font-family="monospace" font-size="15">AWS</text>
+    <text x="418" y="365" fill="#00ffd5" font-family="monospace" font-size="15">04</text>
+    <text x="456" y="365" fill="#e8f4ff" font-family="monospace" font-size="15">Python</text>
+    <text x="700" y="365" fill="#00ffd5" font-family="monospace" font-size="15">05</text>
+    <text x="738" y="365" fill="#e8f4ff" font-family="monospace" font-size="15">Git / GitHub</text>
+    <path d="M418 388H1132" stroke="#16466b" stroke-dasharray="5 5"/>
+    <text x="418" y="416" fill="#00d9ff" font-family="monospace" font-size="13" letter-spacing="2">LIVE SCAN</text>
+    <text x="418" y="444" fill="#a5c8e5" font-family="monospace" font-size="14">Scanning profile modules</text>
+    <text x="1118" y="444" text-anchor="end" fill="#00ffd5" font-family="monospace" font-size="14">[ ACTIVE ]</text>
+    <rect x="416" y="453" width="710" height="3" rx="1.5" fill="#102945"/>
+    <rect x="416" y="453" width="150" height="3" rx="1.5" fill="url(#neon)">
+      <animate attributeName="x" values="416;976;416" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="22" y="22" width="1156" height="476" fill="url(#scanlines)" pointer-events="none"/>
+    <rect x="22" y="22" width="1156" height="476" fill="none" stroke="url(#neon)" stroke-width="1.5" opacity=".8" filter="url(#glow)"/>
+    <rect x="22" y="22" width="1156" height="476" fill="#23bfff" opacity=".055">
+      <animate attributeName="y" values="-476;498;-476" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="600" y="508" text-anchor="middle" fill="#3c8db8" font-family="monospace" font-size="10">HIMANSHU8041 // PERSONAL PROFILE INTERFACE</text>
+</svg>
