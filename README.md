@@ -18,14 +18,14 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU8041\&show_icons=true\&theme=tokyonight)
 
-## Contribution Graph
 
-![Himanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HIMANSHU8041&theme=tokyo-night&hide_border=true)
+## 📊 GitHub Stats
 
-**HIMANSHU8041/HIMANSHU8041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HIMANSHU8041&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+## 📈 Contribution Activity
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HIMANSHU8041&theme=tokyo-night&hide_border=true)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
