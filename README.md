@@ -24,6 +24,6 @@
 * 👯 I’m looking to collaborate on beginner-friendly DevOps, Cloud Computing, and Open Source projects.
 * 🤔 I’m looking for help with Docker, AWS, CI/CD pipelines, and DevOps best practices.
 * 💬 Ask me about Python, Linux, Git, GitHub, and my DevOps learning journey.
-* 📫 How to reach me: Connect with me on [LinkedIn] https://www.linkedin.com/in/himanshu-shishodia-690509370?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+* 📫 How to reach me: Connect with me on [LinkedIn] https://www.linkedin.com/in/himanshushishodia8041/
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I enjoy automating tasks and turning ideas into practical projects!
