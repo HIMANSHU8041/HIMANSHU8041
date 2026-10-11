@@ -12,7 +12,7 @@
 
 ## Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HIMANSHU8041\&theme=tokyo-night)
+![Himanshu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HIMANSHU8041&theme=tokyo-night&hide_border=true)
 
 **HIMANSHU8041/HIMANSHU8041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
