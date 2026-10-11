@@ -1,9 +1,7 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/HIMANSHU8041/HIMANSHU8041/main/blue-neon-terminal.svg"
-    alt="Himanshu Shishodia - Blue Neon Terminal"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/HIMANSHU8041/HIMANSHU8041/main/blue-neon-terminal.svg?v=2"
+       alt="Blue Neon Terminal"
+       width="100%" />
 </p>
 
 # Hi, I'm Himanshu Shishodia 👋
